@@ -1,35 +1,22 @@
+<h2 align="center" style="color: #F75C7E; font-family: 'Comic Sans MS', cursive;">✨ Hello, I'm Justin Tan. ✨</h2>
 <p align="center">
-    <a href="https://github.com/3th1nk" style="font-size: 28px; color: #F75C7E; font-family: 'Comic Sans MS', cursive;">
-    ✨ Hello, I'm Justin Tan. ✨
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=F75C7E&width=320&lines=A+Backend+developer+from+China;10%2B+years+of+coding+experience;Always+learning+new+things" />
 </p>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=F75C7E&width=320&lines=A+Backend+developer+from+China+🇨🇳;10%2B+years+of+coding+experience;Always+learning+new+things" />
-</p>
-<br><br>
-
-
-<p align="center">
-    <img style="width: 300px; height: 150px;" src="images/gotham.svg" />
-</p>
-
+<br>
+<p align="center"><img style="width: 300px; height: 150px;" src="images/gotham.svg" /></p>
 
 <h2 align="center" style="color: #F75C7E; font-family: 'Comic Sans MS', cursive;">🎯 Statistics</h2>
-<br>
-<p>
-    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/overview.svg">
+    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/languages.svg">
 </p>
 
-
-<h2 align="center" style="color: #F75C7E; font-family: 'Comic Sans MS', cursive;">🚀 Languages & Abilities & Tools</h2>
-<br>
+<h2 align="center" style="color: #F75C7E; font-family: 'Comic Sans MS', cursive;">🚀 Technology Stack</h2>
 <p align="center">
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
-    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
     <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white" />
