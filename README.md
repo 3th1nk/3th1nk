@@ -1,18 +1,18 @@
-<h2 align="center" style="color: #F75C7E; font-family: 'Comic Sans MS', cursive;">✨ Hello, I'm Justin Tan. ✨</h2>
-<p align="center">
+<h2 style="text-align: center; color: #F75C7E;">✨ Hello, I'm Justin Tan. ✨</h2>
+<p style="text-align: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=F75C7E&width=320&lines=A+Backend+developer+from+China;10%2B+years+of+coding+experience;Always+learning+new+things" />
 </p>
 <br>
-<p align="center"><img style="width: 300px; height: 150px;" src="images/gotham.svg" /></p>
+<p style="text-align: center;"><img style="width: 300px; height: 150px;" src="images/gotham.svg" /></p>
 
-<h2 align="center" style="color: #F75C7E; font-family: 'Comic Sans MS', cursive;">🎯 Statistics</h2>
-<p align="center">
+<h2 style="text-align: center; color: #F75C7E;">🎯 Statistics</h2>
+<p style="text-align: center;">
     <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/overview.svg">
     <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/languages.svg">
 </p>
 
-<h2 align="center" style="color: #F75C7E; font-family: 'Comic Sans MS', cursive;">🚀 Technology Stack</h2>
-<p align="center">
+<h2 style="text-align: center; color: #F75C7E;">🚀 Technology Stack</h2>
+<p style="text-align: center;">
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
