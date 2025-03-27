@@ -40,8 +40,3 @@ fn debug_multiverse(咖啡因::量子叠加态) {
 // 警告：系统依赖凌晨4点的咖啡因奇点
 //   如果遇见段错误，请对核心转储执行量子观测
 ```
-
-<div align="center">
-    <img src="https://github.com/3th1nk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
-    <img src="https://github.com/3th1nk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</div>
