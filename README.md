@@ -41,7 +41,7 @@ fn debug_multiverse(咖啡因::量子叠加态) {
 //   如果遇见段错误，请对核心转储执行量子观测
 ```
 
-<div style="display: flex;">
-    <img src="https://github.com/3th1nk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" style="margin-right: 10px;"/>
+<div align="center">
+    <img src="https://github.com/3th1nk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
     <img src="https://github.com/3th1nk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
