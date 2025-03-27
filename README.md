@@ -1,33 +1,47 @@
-<h2 align="center" style="color: #F75C7E;">✨ Hello, I'm Justin Tan. ✨</h2>
-<div align="center">
-    <img alt="Personal Profile" src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=F75C7E&width=320&lines=A+Backend+developer+from+China;10%2B+years+of+coding+experience;Always+learning+new+things" />
-</div>
-<br>
-<div align="center">
-    <img style="width: 300px; height: 150px;" src="images/gotham.svg" />
-</div>
+<img src="images/header.png">
 
-<h2 align="center" style="color: #F75C7E;">🎯 Statistics</h2>
-<div align="center">
-    <a href="https://github.com/3th1nk/github-stats">
-        <img alt="Overview" src="https://github.com/3th1nk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-        <img alt="Languages" src="https://github.com/3th1nk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-    </a>
-</div>
 
-<h2 align="center" style="color: #F75C7E;">🚀 Technology Stack</h2>
-<div align="center">
-    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
-    <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white" />
-    <img alt="InfluxDB" src="https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white" />
-    <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+## 🌌 量子态开发者宣言
+
+```c++
+/* ==== 泛维架构公约 ==== */
+// v2.4.20-stable | 编译目标：多维度可观测宇宙
+
+// 编译器指令：启用跨范式量子语法
+#pragma universe_scale(go:1.18, cpp:23)
+
+[🚀奇点反应堆]
+<C::memory::void**> ─[强相互作用]─┐
+  ├─⊕生成: docker弦振动(k8s场论)  
+  ├─⊗湮灭: python::__metaclass__  
+  └─☯混沌态: vue波函数坍缩(ts)
+
+[⌛时空引擎] @influxdb(时间晶体) {
+  es.引力透镜 << mysql.白洞辐射;   // 空间-数据守恒律
+  while(kafka.warp(9.8) > cpp_allocator::hawking_radius()) {
+    rabbitmq.tunnel(泡利矩阵∇²);  // 量子路由协议
+    go.channel << 协程超立方体;    // 高维并发模型
+  }
+}
+
+// 混沌工程协议栈
+fn debug_multiverse(咖啡因::量子叠加态) {
+  shell.克莱因瓶 |= "fork() -> 观察者效应"; 
+  git.时间分支.merge(/* 平行宇宙解 */);
+  throw new 希望(hackers_dream);
+}
+
+/* ==== 📡 可观测宇宙控制台 ==== */
+- 时空连续性: [████▌ 95.7%] (k8s混沌抑制器在线)
+- 内存暗物质: 0xdeadbeef/cafebabe (霍金辐射率 3.2e-8/s)
+- 消息红移: z = kafka.lag * 1e-6 [哈勃常数单位]
+- 前端相对论: vue3 > c * ln(react纤维树) 
+
+// 警告：系统依赖凌晨4点的咖啡因奇点
+//   如果遇见段错误，请对核心转储执行量子观测
+```
+
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
