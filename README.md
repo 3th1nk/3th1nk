@@ -42,6 +42,6 @@ fn debug_multiverse(咖啡因::量子叠加态) {
 ```
 
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="margin-right: 10px;" />
-    <img src="https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://github.com/3th1nk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" style="margin-right: 10px;"/>
+    <img src="https://github.com/3th1nk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
