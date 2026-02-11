@@ -1,42 +1,94 @@
 <img src="images/header.png">
 
+# 👋 你好，我是 3th1nk
 
-## 🌌 量子态开发者宣言
+**后端开发工程师 | 智能运维方向 | Go/C++/Python**
 
-```c++
-/* ==== 泛维架构公约 ==== */
-// v2.4.20-stable | 编译目标：多维度可观测宇宙
 
-// 编译器指令：启用跨范式量子语法
-#pragma universe_scale(go:1.18, cpp:23)
+---
 
-[🚀奇点反应堆]
-<C::memory::void**> ─[强相互作用]─┐
-  ├─⊕生成: docker弦振动(k8s场论)  
-  ├─⊗湮灭: python::__metaclass__  
-  └─☯混沌态: vue波函数坍缩(ts)
+## 关于我
 
-[⌛时空引擎] @influxdb(时间晶体) {
-  es.引力透镜 << mysql.白洞辐射;   // 空间-数据守恒律
-  while(kafka.warp(9.8) > cpp_allocator::hawking_radius()) {
-    rabbitmq.tunnel(泡利矩阵∇²);  // 量子路由协议
-    go.channel << 协程超立方体;    // 高维并发模型
-  }
-}
+专注于智能运维领域的后端开发，擅长使用 Go 构建高性能服务，具有扎实的 C/C++ 底层开发经验。关注系统可观测性、自动化运维和云原生技术，致力于通过技术手段提升运维效率和系统稳定性。
 
-// 混沌工程协议栈
-fn debug_multiverse(咖啡因::量子叠加态) {
-  shell.克莱因瓶 |= "fork() -> 观察者效应"; 
-  git.时间分支.merge(/* 平行宇宙解 */);
-  throw new 希望(hackers_dream);
-}
+---
 
-/* ==== 📡 可观测宇宙控制台 ==== */
-- 时空连续性: [████▌ 95.7%] (k8s混沌抑制器在线)
-- 内存暗物质: 0xdeadbeef/cafebabe (霍金辐射率 3.2e-8/s)
-- 消息红移: z = kafka.lag * 1e-6 [哈勃常数单位]
-- 前端相对论: vue3 > c * ln(react纤维树) 
+## 技术栈
+<div align="left">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
+<img height="20" style="margin: 2px" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+</div>
 
-// 警告：系统依赖凌晨4点的咖啡因奇点
-//   如果遇见段错误，请对核心转储执行量子观测
-```
+---
+
+## GitHub 统计
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/3th1nk/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 精选项目
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [cidr](https://github.com/3th1nk/cidr)
+
+CIDR 网络地址计算工具，提供高效的 IP 地址段计算和管理功能。
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [easyshell](https://github.com/3th1nk/easyshell)
+
+交互式 Shell 执行库，支持本地和远程（SSH/TELNET）命令执行，提供自定义提示符匹配、编码识别、密码交互等功能，适用于自动化运维和 RPA 场景。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [influxdb](https://github.com/3th1nk/influxdb)
+
+InfluxDB 1.x 易用客户端库，提供查询构建器和完整的 API 封装，支持 bucket、continuous queries、series 等功能，简化时序数据的读写操作。
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [ntopng](https://github.com/3th1nk/ntopng)
+
+基于 ntopng v5.7 RESTful API 封装的 Go SDK，支持网络流量监控、主机分析、告警管理、时序数据查询等功能。
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+*💡 持续学习，不断进步*
+
+</div>
